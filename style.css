@@ -12,6 +12,10 @@ body {
   background-color: rgb(110, 33, 33);
 }
 
+.example-2 {
+  background-color: #408f43;
+}
+
 .navbar {
   background-color: #333;
   overflow: hidden;
